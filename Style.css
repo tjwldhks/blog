@@ -17,7 +17,7 @@ p{
 /* 이미지 크기 + 세로 정렬 */
 img[alt = "내 사진"]
 {
-    width: 180px;
+    width: 150px;
     height: auto;
     display: block; ;
 }
